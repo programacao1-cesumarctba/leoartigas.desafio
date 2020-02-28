@@ -13,8 +13,13 @@ public class Programa {
 		//Atividade2 exercicio = new Atividade2();
 		//exercicio.desafio2();
 		
-		Atividade3 exercicio = new Atividade3();
-		exercicio.desafio3();
+		//Atividade3 exercicio = new Atividade3();
+		//exercicio.desafio3();
+		
+		Atividade4 exercicio = new Atividade4();
+		exercicio.desafio4();
+
+		
 	}
 
 }
